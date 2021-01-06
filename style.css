@@ -1,0 +1,84 @@
+.navbar {
+	background-color: #92a8d1;
+}
+.coba{
+	background-color: #f7cac9;
+	border: 5px;
+   padding-top: 71px;
+   padding-right: 97px;
+   padding-bottom: 25px;
+   padding-left: 97px;
+ }
+ .cobaMusic{
+  background-color: #f7cac9;
+  border: 5px;
+   padding-top: 79px;
+   padding-right: 33px;
+   padding-bottom: 30px;
+   padding-left: 33px;
+ }
+ .SVT13{
+ 	border: 5px;
+   padding-top: 25px;
+   padding-right: 33px;
+   padding-bottom: 30px;
+   padding-left: 33px;
+ }
+footer{
+		background-color: #92a8d1;
+		text-align: center;
+		border: 5px;
+		padding-top: 19px;
+		padding-right: 10px;
+		padding-bottom: 9px;
+		padding-left: 10px;
+ }
+ .fa {
+ 	  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 7px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.btn-group button {
+  background-color: #f7cac9; 
+  border: 3px solid #92a8d1; 
+  color: black; 
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: lightgrey;
+}
+
